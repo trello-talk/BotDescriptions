@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,uCAA4B,CAC1B,gBAAgB,CAAE,OAAO,CACzB,KAAK,CAAE,IAAI,CACb,UAAI,CACF,KAAK,CAAE,OAAO",
+"sources": ["../../src/DiscordBoats/style.sass"],
+"names": [],
+"file": "style.css"
+}
