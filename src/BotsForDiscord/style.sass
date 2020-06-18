@@ -1,0 +1,42 @@
+.hero
+  .hero-body
+    background-image: none !important
+    background-color: #222 !important
+    [style*="drop-shadow"]
+      filter: none !important
+    .tag
+      &.is-dark + .tag
+        background-color: #93a01e
+        color: #fff
+      &.is-danger a
+        background-color: #546403
+        border-radius: 10px
+        padding-left: 7px
+        & + a
+          margin-left: 5px
+    .img-circle
+      border-radius: 0
+      animation: none
+    .is-10
+      position: relative
+      #status
+        position: absolute
+        margin: 0
+        font-size: 0
+        top: 35px
+        &:before
+          display: block
+          width: 32px
+          height: 32px
+      .title#highlight
+        padding-left: 40px
+      .button
+        &:not(.is-warning)
+          background-color: #333
+          color: #fff
+        &.is-link
+          background-color: #93a01e
+          color: #fff
+        &.is-white
+          background-color: #6b741b
+          color: #fff
