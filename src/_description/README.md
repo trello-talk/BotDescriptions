@@ -5,7 +5,7 @@
 [Website](https://tacobot.app)
 
 - #### Get Notified
-  Easily setup webhooks to notify you on Discord when changes are made to your trello board.
+  Easily setup webhooks to notify you on Discord when changes are made to your Trello board.
 - #### Easy Management
   Manage your Trello board easily from the comfort of your Discord server.
 - #### Interactive Setup
